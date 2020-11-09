@@ -1,4 +1,5 @@
 Práctica 1: Web scraping
+
 Descripción
 Esta práctica se ha realizado para la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos dde la UOC. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos de la web EnCopaDeBalon y generar un dataset.
 
